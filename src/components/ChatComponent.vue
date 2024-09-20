@@ -96,7 +96,7 @@
      width: 100%;
      height: 100px;
      margin-bottom: 10px;
-     padding: 10px;
+     padding: 1px;
      border: 1px solid #ccc;
      border-radius: 5px;
      box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
